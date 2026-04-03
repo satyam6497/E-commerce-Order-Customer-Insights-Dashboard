@@ -34,6 +34,9 @@ The Power BI dashboard provides a visual summary of:
 * Order status distribution
 * Key performance indicators
 
+* <img width="1362" height="772" alt="image" src="https://github.com/user-attachments/assets/d544b6b6-d04c-4fa3-9b35-0e595dd40978" />
+
+
 ---
 
 ## 🛠️ Tools & Technologies
